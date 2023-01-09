@@ -7,15 +7,13 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+The simple but funny app where you can find the relevant cat picture representing your mood.
+You can additionally choose to see only gifs.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+The project was created using JS, some of the topics which where covered are:
+for of loop, radio&checkbox inputs, querySelrctor, getElementByClassName, classList.remove, .includes(), .filter()
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+<img width="432" alt="Screenshot 2023-01-09 at 09 14 06" src="https://user-images.githubusercontent.com/46134711/211275550-cc3fea10-39ff-4bd5-91be-b8f5bb6b8acd.png">
 
-Happy Coding!
+<img width="442" alt="Screenshot 2023-01-09 at 09 15 09" src="https://user-images.githubusercontent.com/46134711/211275542-a4b19a6d-0d38-4566-acf5-2b42337c8a3b.png">
+
